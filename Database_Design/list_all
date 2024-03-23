@@ -1,0 +1,4 @@
+// list everything
+db.users.find();
+db.products.find();
+db.transactions.find();
